@@ -1,3 +1,2 @@
-*.vcproj    eol=crlf
-*.sh        eol=lf
-*.html      eol=lf
+*.js linguist-detectable=false
+*.css linguist-detectable=true
